@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': "AI_Teaching_Project",  # AI_Teaching_Project
         'USER': "root",
         "PASSWORD": "89sW@;ll5J",  # 89sW@;ll5J
-        "HOST": "localhost",
+        "HOST": "10.0.224.7",
         "PORT": "3306"
     }
 }
